@@ -1,3 +1,4 @@
+# AWVS的相关配置
 
 class AcunetixConfig(object):
     username = '123@qq.com'
